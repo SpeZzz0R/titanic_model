@@ -6,7 +6,7 @@
 
 
 ## Используемые технологии
-- Google Colab
+- Google Colab / Jupyter Notebook
 
 
 ## Результаты анализа данных	
